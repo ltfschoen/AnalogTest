@@ -1,5 +1,7 @@
 # Analog One Incentivized Testnet
 
+[Sign-up to Analog incentivized testnet using referral: CYXJDY](https://testnet.analog.one/#/?signup&referral=CYXJDY)
+
 * Install latest Node.js LTS version using NVM
 ```
 npm install -g yarn
